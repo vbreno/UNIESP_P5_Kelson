@@ -2,7 +2,7 @@
 
 #
 
->**A matéria de Programação de Dispositivos Móveis tem como proposta um projeto prático no desenvolvimento de um aplicativo**
+>**A matéria de Programação de Dispositivos Móveis tem como proposta um projeto prático no desenvolvimento de um aplicativo de gerenciamento de recursos**
 
 #
 
