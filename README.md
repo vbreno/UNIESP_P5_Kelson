@@ -6,25 +6,25 @@
 
 > O aplicativo terá as seguintes telas:
 
-- **1️⃣Tela de Login 🔑**
+> **1️⃣Tela de Login 🔑**
 - O usuário pode inserir nome e senha;
 - Há dois botões fictícios para login com Google e GitHub (apenas para
 visualização);
 - Ao clicar no botão "Entrar", o usuário é redirecionado para a tela
 principal.
 
--**2️⃣Tela Home 🏡**
+> **2️⃣Tela Home 🏡**
 - Exibe uma lista de cursos disponíveis;
 - Cada curso tem nome e descrição;
 - Ao clicar em um curso, o usuário é redirecionado
 para a Tela de Detalhes com as informações do
 curso selecionado.
 
--**3️⃣Tela Detalhes 📄**
+> **3️⃣Tela Detalhes 📄**
 - Exibe o ID, nome e descrição do curso selecionado
 na Home.
 
--**Tela de Perfil 👔**
+> **4️⃣Tela de Perfil 👔**
 - Exibe informações fictícias de um usuário;
 - Possui um botão para sair do app, retornando à
 tela de login.
