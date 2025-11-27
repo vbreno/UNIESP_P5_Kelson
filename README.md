@@ -2,7 +2,7 @@
 
 #
 
->**A matéria de Programação de Dispositivos Móveis tem como proposta um projeto prático no desenvolvimento de um aplicativo de gerenciamento de cursos com o React Native.**
+>**A matéria de Programação de Dispositivos Móveis tem como proposta um projeto prático no desenvolvimento de um aplicativo de gerenciamento de cursos através do React-Native.**
 
 #
 
@@ -10,4 +10,4 @@
  
  - NodeJS;
  - Javascript;
- - React Native.
+ - React-Native.
